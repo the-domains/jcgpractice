@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jcgpractice]]></title>
         <description><![CDATA[jcgpractice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jcgpractice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 07:31:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 07:47:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jcgpractice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SHOT | Simple | Healthy | Organic | Tasty]]></title>
+            <description><![CDATA[<article><h1>SHOT | Simple | Healthy | Organic | Tasty</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/222d945705ea022f14dcfedc74a65f321e759d20.jpg"></article>]]></description>
+            <link>http://shot.london/</link>
+            <guid isPermaLink="false">9d9e76de-629a-418d-aec5-a50757217e70</guid>
+            <pubDate>Mon, 30 May 2016 07:47:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4621a94f-167c-4972-af6c-f97e310f8216.jpg">]]></description>
-            <link>undefinedthis-is-a-practice-page-to-see-what-im-doing/index.html</link>
+            <link>https://thegrid.ai/jcgpractice/this-is-a-practice-page-to-see-what-im-doing/index.html</link>
             <guid isPermaLink="false">53e94b89-71ba-4791-b3fd-43d94e942d2c</guid>
             <pubDate>Mon, 30 May 2016 07:30:57 GMT</pubDate>
         </item>
